@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280821705722",
+    "project_id": "kodshop-a32cc",
+    "storage_bucket": "kodshop-a32cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280821705722:android:7c1ef92801c774c6ad1243",
+        "android_client_info": {
+          "package_name": "com.mahm.kodshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280821705722-97grq6joohr1qbl66g6n7fvd2nkuf2tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzx-CaHQkVrXVheQ24X27P0vSN3e6OR_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280821705722-97grq6joohr1qbl66g6n7fvd2nkuf2tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
